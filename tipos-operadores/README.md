@@ -1,18 +1,15 @@
-## Getting Started
+# 🚀 Operadores em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório contém exemplos de utilização dos **operadores em Java**, como parte do meu aprendizado no curso. O código está no arquivo `Operadores.java`, e demonstra como funcionam os principais operadores da linguagem.
 
-## Folder Structure
+## ✅ O que você vai encontrar
 
-The workspace contains two folders by default, where:
+- Atribuição
+- Aritméticos
+- Concatenação
+- Unários
+- Ternário
+- Relacionais
+- Booleanos
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).

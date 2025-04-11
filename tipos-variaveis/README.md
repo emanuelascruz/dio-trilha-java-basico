@@ -1,18 +1,16 @@
-## Getting Started
+# 🧠 Tipos de Variáveis em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório contém exemplos práticos de declaração e manipulação de **variáveis em Java**, com foco em tipos primitivos e conversões de tipo (cast).
 
-## Folder Structure
+O código está no arquivo `TiposVariaveis.java`, e demonstra o uso básico de tipos como `short` e `int`, além de mostrar como funciona o **casting** em Java.
 
-The workspace contains two folders by default, where:
+---
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🗂️ Conteúdo abordado
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Declaração de variáveis
+- Atribuição de valores
+- Conversão de tipos (casting)
+- Sobrescrita de valores
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
